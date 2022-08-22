@@ -10,6 +10,9 @@ I am passionate about coding and always seek to challenge myself.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafegal&count_private=true&hide=html,css&&layout=compact&theme=merko)](https://github.com/rafegal/github-readme-stats)
 
+I contributed with video class for [dio._](https://dio.me)
+
+[![Top Langs](https://img.shields.io/badge/dio.me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/)
 
 ## 🔗 Links
 
@@ -24,7 +27,3 @@ I am passionate about coding and always seek to challenge myself.
 <a href="https://www.youtube.com/rafaelgalleani">
   <img align="center" src="https://img.shields.io/badge//rafaelgalleani-critical?logo=youtube&style=for-the-badge&logoColor=white" />
 </a>
-
-
-
-
