@@ -12,8 +12,19 @@ I am passionate about coding and always seek to challenge myself.
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-galleani)
 
-[![youtube](https://img.shields.io/badge//rafaelgalleani-critical?logo=youtube&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rafael-galleani)
+<a href="https://www.linkedin.com/in/rafael-galleani">
+  <img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://gitlab.com/rafegal">
+  <img align="center" src="https://img.shields.io/badge/gitlab-white?logo=gitlab&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/rafaelgalleani">
+  <img align="center" src="https://img.shields.io/badge//rafaelgalleani-critical?logo=youtube&style=for-the-badge&logoColor=white" />
+</a>
+
+
 
 
