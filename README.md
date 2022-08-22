@@ -6,15 +6,15 @@ I am using this account to host my personal projects and other things I try for 
 Fullstack developer, I have a huge experience with development solutions for different problems. For me code is about changing lives and helping to make the world a better place.
 I am passionate about coding and always seek to challenge myself.
 
-[![Rafael Galleani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafegal&count_private=true&show_icons=true&theme=merko)](https://github.com/rafegal/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafegal&count_private=true&hide=html,css&&layout=compact&theme=merko)](https://github.com/rafegal/github-readme-stats)
-
-I contributed with video class for 
+I contribute video class for
 <a href="https://dio.me">
   <img src="/images/logo-diome.png"  width=52 height=20>
 </a>. 
 
+
+[![Rafael Galleani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafegal&count_private=true&show_icons=true&theme=merko)](https://github.com/rafegal/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafegal&count_private=true&hide=html,css&&layout=compact&theme=merko)](https://github.com/rafegal/github-readme-stats)
 
 
 ## 🔗 Links
