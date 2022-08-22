@@ -10,9 +10,12 @@ I am passionate about coding and always seek to challenge myself.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafegal&count_private=true&hide=html,css&&layout=compact&theme=merko)](https://github.com/rafegal/github-readme-stats)
 
-I contributed with video class for [dio._](https://dio.me)
+I contributed with video class for 
+<a href="https://dio.me">
+  <img src="/images/logo-diome.png"  width=52 height=20>
+</a>. 
 
-[![Top Langs](https://img.shields.io/badge/dio.me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/)
+
 
 ## 🔗 Links
 
