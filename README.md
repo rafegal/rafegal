@@ -11,14 +11,17 @@ I contribute video class for
   <img src="/images/logo-diome.png"  width=52 height=20>
 </a>. 
 
+## 📊 GitHub Stats:
 
 [![Rafael Galleani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafegal&count_private=true&show_icons=true&theme=merko)](https://github.com/rafegal/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafegal&count_private=true&hide=html,css&&layout=compact&theme=merko)](https://github.com/rafegal/github-readme-stats)
 
---------
+## 🏆 GitHub Trophies
 
-#### 🛠 Tech Stack
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rafegal&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+## 🛠 Tech Stack
 
 - Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
