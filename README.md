@@ -13,9 +13,10 @@ I contribute video class for
 
 ## 📊 GitHub Stats:
 
-[![Rafael Galleani's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafegal&count_private=true&show_icons=true&theme=merko)](https://github.com/rafegal/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafegal&count_private=true&show_icons=true&theme=merko&hide=css"/> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafegal&count_private=true&hide=html,css&&layout=compact&theme=merko)](https://github.com/rafegal/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafegal&theme=merko&line_height=40&hide=css&layout=compact"/> </a>
+
 
 ## 🏆 GitHub Trophies
 
